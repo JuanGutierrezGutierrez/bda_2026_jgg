@@ -1,0 +1,1 @@
+Repositorio de las prácticas de Juan Gutierrez Gutierrez para la asignatura de Big Data Aplicado.
