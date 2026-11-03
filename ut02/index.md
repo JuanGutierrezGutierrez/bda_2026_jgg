@@ -5,6 +5,6 @@
 
 [Practica 0202](./pr0202/pr0202.md)
 
-[Practica 0204](./pr0202/pr0204.md)
+[Practica 0204](./pr0204/pr0204.md)
 
 [VOLVER](../index.md)
